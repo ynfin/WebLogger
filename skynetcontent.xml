@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<response>
+  <info>
+    <spaceTotal>1000169533440</spaceTotal>
+    <spaceFree>430241140736</spaceFree>
+  </info>
+  <panelfiles>
+    <panelfile>
+      <filename>CBS-lakkabin</filename>
+      <address>10.47.89.188</address>
+      <deal>graph</deal>
+    </panelfile>
+    <panelfile>
+      <filename>VentilVegg</filename>
+      <address>10.47.89.180</address>
+      <deal>graph</deal>
+    </panelfile>
+    <panelfile>
+      <filename>CBS-inne</filename>
+      <address>10.47.89.130</address>
+      <deal>graph</deal>
+    </panelfile>
+    <panelfile>
+      <filename>VanPainter</filename>
+      <address>10.47.89.106</address>
+      <deal>graph</deal>
+    </panelfile>
+    <panelfile>
+      <filename>TestTralle</filename>
+      <address>10.47.89.177</address>
+      <deal>graph</deal>
+    </panelfile>
+  </panelfiles>
+  <serverfiles>
+    <serverfile>
+      <serverfilename>main_logfile3_10.47.89.106.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile3_10.47.89.106.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 20:32:34 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>main_logfile2_10.47.89.106.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile2_10.47.89.106.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 20:32:34 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>systemLog.txt</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/systemLog.txt</serverfilepath>
+      <serverfiledate>Tue Aug 16 17:51:41 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>main_logfile_10.47.89.188.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile_10.47.89.188.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 17:51:41 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>main_logfile_10.47.89.180.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile_10.47.89.180.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 17:51:41 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>main_logfile_10.47.89.177.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile_10.47.89.177.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 17:51:39 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>main_logfile_10.47.89.130.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile_10.47.89.130.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 17:51:39 2016</serverfiledate>
+    </serverfile>
+    <serverfile>
+      <serverfilename>main_logfile_10.47.89.106.autolog</serverfilename>
+      <serverfilepath>/logger/WebLogger/logstorage/main_logfile_10.47.89.106.autolog</serverfilepath>
+      <serverfiledate>Tue Aug 16 17:51:39 2016</serverfiledate>
+    </serverfile>
+  </serverfiles>
+</response>

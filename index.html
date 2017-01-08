@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="skynet.css" rel="stylesheet">
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="skynet.js"></script>
+</head>
+
+<body onload="process()">
+    <!-- ########## NAVBAR ##########-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" id="brandcontainer" href="wilderness.html">
+                    <span><img src="resources/trihorn.png" alt="Brand" id="brandimage"></span>Skynet
+                </a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#">Watch</a>
+                    </li>
+                    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Crypto</a>
+                    </li>
+                    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Upload</a>
+                    </li>
+                    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Settings</a>
+                    </li>
+                </ul>
+                <div class="navbar-right navbar-brand"  style="margin-top: -10px;">
+                    <b1 style="font-size: 14px;"> </b1>
+                    <b1 style="font-size: 12px;" id="freespacetext"> 123 GB / 450GB </b1>
+                    <div class="progress" style="height: 10px; width: 170px;">
+                        <div class="progress-bar" role="progress bar"  id="progressbar" >
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ########## PAGE CONTAINER ##########-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 col-md-2 sidebar">
+
+                <ul id="sidebarList" class="nav nav-sidebar nav-pills nav-stacked pills-pad" />
+
+            </div>
+            <!-- sidebar -->
+
+            <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+                <h2 id="serieSubHeader" class="sub-header">All</h2>
+                <div>
+                    <!-- table start -->
+                    <table class="table-condensed table-hover">
+                        <col style="width:67.5%">
+                        <col style="width:10%">
+                        <col style="width:10%">
+                        <col style="width:12.5%">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Added</th>
+                                <th>Age</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableList" class="skynet-table" />
+                    </table>
+                </div>
+            </div>
+            <!-- end series list -->
+
+        </div>
+
+    </div>
+    <!-- container -->
+
+
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+</body>

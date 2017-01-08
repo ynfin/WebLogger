@@ -1,0 +1,6 @@
+10.47.89.188 CBS-lakkabin graph
+10.47.89.180 VentilVegg graph
+10.47.89.130 CBS-inne graph
+10.47.89.106 VanPainter graph
+10.47.89.177 TestTralle graph
+10.47.89.100 Fake graph
